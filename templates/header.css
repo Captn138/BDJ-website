@@ -1,0 +1,80 @@
+header{
+	width: 73%;
+	margin: 10px auto 0px;
+	min-width: 700px;
+	
+	/*background-color: blue;*/
+	
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.header_nav{
+	margin-top: 20px;
+	width:100%;
+	height: 50px;
+	background-color: grey;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+
+.menu
+{
+	display: flex;
+	height:100%;
+	margin-left:1%;
+	margin-right:1%;
+	/*background-color: red;*/
+}
+
+.menu_elt
+{
+	height:100%;
+	width: 20%;
+	
+	text-align: center;
+	justify-content: flex-start;
+}
+
+.link, .main_link, .main_link_over
+{
+	color: black;
+	text-decoration: none;
+}
+
+.main_link, .main_link_over
+{
+	display: flex;
+	height: 50px;
+
+	
+	flex-direction: column;
+	justify-content: center;
+}
+
+.main_link_over
+{
+	background-color: #404040;
+}
+
+
+.sectionner
+{
+	width: 1px;
+	height:100%;
+	background-color: black;
+}
+
+.list_menu, .game_menu
+{
+	position: relative;
+	padding-top: 1.5em;
+	width: 100%;
+	height: 100px;
+	background-color: gray;
+	z-index: 5;
+}
+
+.show{display:block;}
+.hide{display:none;}

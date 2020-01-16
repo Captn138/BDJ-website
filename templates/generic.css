@@ -1,0 +1,23 @@
+*
+{
+	margin:0;
+	padding:0;
+	z-index: 1;
+}
+
+body{
+	/*background-image: url("../img/crusade.jpg");
+	background-attachment: fixed;*/
+	background-color: #b0b0b0;
+}
+
+.main_part
+{
+	width: 73%;
+	margin: 0px auto 0px;
+	background-color: white;
+	min-height: 500px;
+	min-width: 700px;
+	padding-top: 20px;
+	
+}

@@ -1,0 +1,12 @@
+.organigramme
+{
+	width: 90%;
+	margin: 2.5em auto 0px;
+	padding-bottom: 3em;
+	
+	position: relative;
+	
+	display: flex;
+	justify-content: center;
+	z-index: auto;
+}
