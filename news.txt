@@ -1,0 +1,13 @@
+4
+img/news/Security-AnneNeuberger-Windows-1186386275.jpg.webp
+Faille de sécurité Windows
+Une faille de Windows Update a été découverte, et elle est suffisemment grave pour que la NSA et le département de la défense Américaine fassent des communiqués sur le sujet.<br><br>En gros, elle permet à des hackers de faire une installation automatique de virus via Windows Update. Et comme c'est W10, impossible de l'empêcher.<br><br>Un fix est sorti aujourd'hui, donc mettez votre windows à jour le plus vite possible. <br><br>Sur ce, DEUS VULT \[+]/ et mangez de la soupe.<br><br>Sources : <a href="https://media.defense.gov/2020/Jan/14/2002234275/-1/-1/0/CSA-WINDOWS-10-CRYPT-LIB-20190114.PDF">source1</a> <a href="https://www.wired.com/story/nsa-windows-10-vulnerability-disclosure/">source2</a>
+img/news/81266113_3588208207885981_4476259274313433088_n.jpg
+Nuit Du Jeu #2
+Comme vous le savez, les grèves des transports continuent en janvier. C'est pourquoi nous avons décidé de décaler la Nuit Du Jeu #2 au vendredi 7 février 2020.<br><br>Vous pouvez quand même continuer à nous donner votre avis sur le premier évènement <a href="http://bit.ly/36A3jFg">ici</a>, et vous inscrire pour les tournois du deuxième <a href="http://bit.ly/2Q5ZW2Y">ici</a>.<br><br>N'oubliez pas les deux jeux concours :<br>• Pour tenter de gagner le jeu "Empyrion - Galactic Survival" sur Steam il vous suffit d'envoyer un mail à <a href="mailto:kferreira@intechinfo.fr">kferreira@intechinfo.fr</a> en précisant un cadeau que vous avez reçu à Noël.<br>• Pour gagner une copie presse PS4 du jeu "A Plague Tale: Innocence" ainsi qu'un tapis de souris à l'effigie du jeu, il vous suffit de vous inscrire <a href="http://bit.ly/2QyzkH7">ici</a>.<br><br>Retrouvez aussi toutes les infos sur notre <a href="http://facebook.com/bdj.esiea">page Facebook</a>, un <a href="https://www.facebook.com/events/2584189605036979/">évènement</a> a été créé pour l'occasion.<br><br>A très bientôt<br><br>L'équipe PFH NDJ
+img/news/santa-claus-png-santa-claus-png-image-2736.png
+Joyeux Noël!
+Toute l'équipe BDJ CRUSADERS vous souhaite d'excellentes fêtes de fin d'année et vous donne rendez-vous dès la rentrée, dans son magnifique nouveau local!
+img/news/knight-of-temple-2d48a3e.png
+Local & Site
+Nous venons d'obtenir notre local, qui se trouve dans le couloir bleu à In'tech, à côté de la E09. C'est l'ancien couloirs des profs, première à droite. Les cotisants pourront profiter de la Gamecube en libre service !!<br><br>Nous introduisons aussi notre nouveau site web !! Il va s'étoffer des les semaines à venir, mais vous pouvez en profiter <a href="http://bdjserveur.ddns.net/">ici</a><br><br>DEUS VULT !

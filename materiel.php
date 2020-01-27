@@ -14,9 +14,22 @@
 		
 		<div class="main_part" >
             <div class="text_zone">
-                <h1>Les Jeux</h1>
-				<p>Base de donnée en cours de construction...</p>
-				<img src="img/bob.png" alt="BoB" height="400">
+				<h1>Le Matériel</h1>
+				<a class="matoslink" href="serveurs.php">
+					<div class="matos serveurs">
+						<p class="matos_p">Serveurs</p>
+					</div>
+				</a>
+				<a class="matoslink" href="jeux.php">
+					<div class="matos jeux">
+						<p class="matos_p">Jeux</p>
+					</div>
+				</a>
+				<a class="matoslink" href="jdr.php">
+					<div class="matos jdr">
+						<P class="matos_p">JDR</p>
+					</div>
+				</a>
             </div>
 		</div>		
 		

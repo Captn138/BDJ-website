@@ -1,0 +1,195 @@
+@font-face{
+	font-family: Coves;
+	src: url("../font/CovesLight.otf") format("opentype");
+}
+
+@font-face{
+	font-family: CovesBold;
+	src: url("../font/CovesBold.otf") format("opentype");
+}
+
+*{
+	font-family: "Coves";
+	margin:0;
+	padding:0;
+	z-index: 1;
+	color: white;
+	scrollbar-color: #1a1a1a #3a3a3a;
+}
+
+body{
+	background-color: #2f3234;
+}
+
+.main_part{
+	width: 73%;
+	margin: 0px auto 0px;
+	min-height: 500px;
+	min-width: 700px;
+	padding-top: 20px;
+	background-color: #181a1b;
+}
+
+h1{
+	font-family: "CovesBold";
+	color: #a90000;
+	padding: 20px;
+}
+
+.text_zone{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding-bottom: 20px;
+}
+
+input{
+	color: black;
+}
+
+textarea{
+	color: grey;
+}
+
+#submit{
+	width: 100%;
+	height: 50px;
+	margin-top: 10px;
+	font-size: 25px;
+}
+
+.submitfield{
+	border-radius: 10px;
+}
+
+.submitfield:invalid{
+	border: 2px solid red;
+}
+
+.col1{
+	width: 10%;
+}
+
+.col2{
+	width: 90%;
+}
+
+.col3{
+	width: 15%;
+	border: 1px solid white;
+	padding: 4px;
+}
+
+.col4{
+	width: 70%;
+	max-width: 70%;
+	border: 1px solid white;
+	padding: 4px;
+}
+
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+#a_toi_de_jouer{
+	border: 1px solid white;
+}
+
+input, textarea{
+	padding: 2px;
+}
+
+#a_propos{
+	text-align: center;
+	align-items: center;
+}
+
+.ap_row{
+	width: 33%;
+}
+
+.team_names{
+	font-family: CovesBold;
+	font-size: 25px;
+}
+
+.col5{
+	width: 30%;
+}
+
+.col6{
+	width: 70%;
+	padding: 20px;
+}
+
+.news_row{
+	padding: 25px;
+}
+
+.newsimage{
+	max-width: 100%;
+}
+
+.adresse{
+	color: blue;
+}
+
+.matos{
+	border: 2px solid red;
+	border-radius: 15px;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 60px;
+	transition: 3s;
+}
+
+.serveurs{
+	background-image: url("../img/serveurs.jpg");
+}
+
+.serveurs:hover{
+	background-image: url("../img/serveurs_blur.jpg");
+}
+
+.jeux{
+	background-image: url("../img/jeux.jpeg");
+}
+
+.jeux:hover{
+	background-image: url("../img/jeux_blur.jpg");
+}
+
+.jdr{
+	background-image: url("../img/jdr.jpg");
+}
+
+.jdr:hover{
+	background-image: url("../img/jdr_blur.jpg");
+}
+
+.matos_p{
+	backdrop-filter: blur(20px);
+	z-index: 100;
+	font-family: CovesBold;
+	font-size: 30px;
+	color: white;
+	text-shadow: -1px 0 #a90000, 0 1px #a90000, 1px 0 #a90000, 0 -1px #a90000;
+}
+
+.matoslink{
+	width: 75%;
+	text-decoration: unset;
+}
+
+.col5{
+	width: 15%;
+}
+
+.col6{
+	width: 70%;
+}

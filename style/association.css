@@ -1,16 +1,10 @@
-img
-{
+img{
 	max-width: 100%;
 	height: auto;
 }
 
-.organigramme
-{
+.organigramme{
 	width: 90%;
-	
 	margin: 2.5em auto 0px;
 	padding-bottom: 3em;
-	
-	display: flex;
-	justify-content: center;
 }

@@ -1,0 +1,38 @@
+footer{
+	width: 100%;
+	background-color:#121212; 
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin:0px;
+	padding-bottom: 50px;
+}
+
+
+
+#extern_links{
+	color: grey;
+	width: 200px;
+	margin-bottom: 10px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+#footer_limit{
+	background-color: red;
+	width: 100%;
+	height: 1px;
+	
+	margin-bottom: 20px;
+}
+
+.footer_text{
+	text-align: center;
+	color: grey;
+	text-decoration: none;
+}
+
+.reseaux{
+	height: 35px;
+}
